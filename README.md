@@ -18,4 +18,9 @@ Also known as "Power Tower Fractal".
 ## Anti-Aliasing Filter (AAF)
 
 <img src="pictures/AAF_x1.bmp" width="256" height="256" />
+
+No AAF
+
 <img src="pictures/AAF_x8.bmp" width="256" height="256" />
+
+AAF x8
